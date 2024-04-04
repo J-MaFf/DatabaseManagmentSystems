@@ -5,7 +5,7 @@ import java.sql.Statement;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class ConnectionDemo { // test
+public class ConnectionDemo { // test 2
 
     static final String databasePrefix = "cs366-2237_maffiolajp11";
     static final String netID = "maffiolajp11"; // Please enter your netId
